@@ -1,9 +1,8 @@
 body {
-  background-color: #5D7861;
+  background-color: #587A48;
 }
 h1 {
   text-align: center;
-  color: #693278;
 }
 img {
   display: block;
@@ -14,11 +13,9 @@ img {
 .left{
   text-align: left;
   font-size: 20px;
-  padding: 50px;
 }
 
 .right{
   float: right;
   font-size: 20px;
-  padding: 50px;
 }
