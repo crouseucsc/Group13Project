@@ -1,13 +1,13 @@
 body {
   background-color: #5D7861;
-  font-family: "Impact", fantasy;
-  font-weight: 500;
-  font-size: 120%;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: 600;
+  font-size: 150%;
 }
 
 h1 {
   text-align: center;
-  color: #693278;
+  color: #A5C3E4;
 }
 
 img {
@@ -19,7 +19,7 @@ img {
 .left {
   text-align: left;
   font-size: 20px;
-  padding-left: : 50px;
+  padding-left: 50px;
 }
 
 .right {
