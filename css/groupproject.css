@@ -1,23 +1,25 @@
 body {
   background-color: #5D7861;
 }
+
 h1 {
   text-align: center;
   color: #693278;
 }
+
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.left{
+.left {
   text-align: left;
   font-size: 20px;
   padding: 50px;
 }
 
-.right{
+.right {
   float: right;
   font-size: 20px;
   padding: 50px;
