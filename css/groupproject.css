@@ -1,5 +1,8 @@
 body {
   background-color: #5D7861;
+  font-family: "Impact", fantasy;
+  font-weight: 500;
+  font-size: 120%;
 }
 
 h1 {
@@ -16,11 +19,11 @@ img {
 .left {
   text-align: left;
   font-size: 20px;
-  padding: 50px;
+  padding-left: : 50px;
 }
 
 .right {
   float: right;
   font-size: 20px;
-  padding: 50px;
+  padding-right: 50px;
 }
